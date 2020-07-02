@@ -1,0 +1,9 @@
+
+# Virtual environments
+venv/
+env/
+
+
+# python byte files
+__pycache__/
+*/__pycache__/
